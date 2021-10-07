@@ -5,3 +5,7 @@ Resumo: Nos últimos anos, tem sido cada vez mais frequente a ocorrência de vaz
 ### Apresentação: Wanessa Souza - Analista de Segurança da Informação - Tempest Security Intelligence - [Linkedin](https://www.linkedin.com/in/wanessa-pssouza/)
 
 O ppt apresentado encontra-se [aqui](https://drive.google.com/file/d/11ImiQKrbZTuuDC5zLGei9au_U5IPSw8H/view?usp=sharing)
+
+### Vídeo do Meetup
+
+[20º Meetup Dev Girls](https://youtu.be/uLsg6CmPqPA)

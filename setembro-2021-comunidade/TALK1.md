@@ -6,6 +6,10 @@ Resumo: O objetivo da talk é apresentar o ecossistema Salesforce, sua cultura e
 
 O ppt apresentado encontra-se [aqui]()
 
+### Vídeo do Meetup
+
+[20º Meetup Dev Girls](https://youtu.be/uLsg6CmPqPA)
+
 ### Links compartilhados
 
 Curso Fundamentos do Salesforce:
