@@ -6,5 +6,10 @@ Resumo: Diante de um projeto com código legado, temos o impulso imediato de ref
 
 O ppt apresentado encontra-se [aqui](./Refatoração.pdf)
 
+### Vídeo do Meetup
+
+[18º Meetup Dev Girls](https://youtu.be/wZIFESCwigk)
+
 ### Comunidade Dev Girls
+
 [Linkedin](https://www.linkedin.com/company/dev-girls/) - [Instagram](https://www.instagram.com/devgirlsbr/) - [Artigos](https://dev.to/devgirls)

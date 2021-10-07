@@ -5,3 +5,11 @@ Resumo: **Camila Rodrigues**, Talent Acquisition Manager da [Trio](https://trio.
 ### Apresentação: Camila Rodrigues, Talent Acquisiton Manager na Trio - [Linkedin](https://www.linkedin.com/in/camiladsrodrigues/)
 
 O ppt apresentado encontra-se [aqui](https://drive.google.com/file/d/1Kmkn_1ofJwFWWuGT_B4SzxYJGTBu9zgr/view?usp=sharing)
+
+### Vídeo do Meetup
+
+[19º Meetup Dev Girls](https://youtu.be/9uXbBrqNLO8)
+
+#### Empresa parceira: Trio
+
+[Site](https://trio.dev/) - [Instagram](https://www.instagram.com/triodevbr/)
